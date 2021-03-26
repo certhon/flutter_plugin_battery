@@ -1,8 +1,7 @@
 name: flutter_plugin_battery
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:flutter_plugin_battery
+homepage: https://github.com/certhon/flutter_plugin_battery
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
